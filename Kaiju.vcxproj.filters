@@ -30,6 +30,9 @@
     <ClCompile Include="kaiju_pipeline.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="kaiju_device.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="kaiju_window.hpp">
@@ -39,6 +42,9 @@
       <Filter>Source Files</Filter>
     </ClInclude>
     <ClInclude Include="kaiju_pipeline.hpp">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="kaiju_device.hpp">
       <Filter>Source Files</Filter>
     </ClInclude>
   </ItemGroup>
